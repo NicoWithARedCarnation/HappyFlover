@@ -1,7 +1,6 @@
 .header__link {
+  font-family: "Marck Script", cursive;
   color: #000000;
-  font-family: 'Merriweather', sans-serif;
-  font-weight: bold;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 48px;
 }

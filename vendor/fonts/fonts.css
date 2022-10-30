@@ -9,11 +9,11 @@
 }
 
 @font-face {
-  font-family: 'Amatic SC', sans-serif;
-  src: url('./Amatic-SC/AmaticSC-Bold.woff2') format('woff2'),
-       url('./Amatic-SC/AmaticSC-Bold.woff') format('woff'),
-       url('./Amatic-SC/AmaticSC-Bold.ttf') format('ttf');
-  font-weight: 700;
+  font-family: 'Marck Script', cursive;
+  src:  url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.woff2') format('woff2'),
+        url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.woff') format('woff'),
+        url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.ttf') format('ttf');
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
