@@ -1,6 +1,6 @@
 # Проект: HappyFlover
 
-Цель проекта : ... 
+Цель проекта : ...
 
 ## Технологии, которые использовались
 
@@ -13,4 +13,4 @@
 
 ### Посмотреть сайт можно по ссылке ↓
 
-[«Сам Проект»](https://alexparanoir.github.io/start-kit/)
+[«Сам Проект»](https://nicowitharedcarnation.github.io/HappyFlover/)

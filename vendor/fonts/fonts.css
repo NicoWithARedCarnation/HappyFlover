@@ -1,8 +1,19 @@
 @font-face {
-  font-family: '';  /* Название шрифта */ 
-  src: url('./') format('woff2'), /* Путь к расположению шрифта */ 
-       url('./') format('woff');
-  font-weight: 400; /* Толщина шрифта */ 
-  font-style: normal; /* Стиль шрифта */ 
-  font-display: swap; /* Отображение шрифта */ 
+  font-family: 'Red Hat Mono', sans-serif;
+  src: url('./Red-Hat-Mono/RedHatMono-Light.woff2') format('woff2'),
+       url('./Red-Hat-Mono/RedHatMono-Light.woff') format('woff'),
+       url('./Red-Hat-Mono/RedHatMono-Light.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amatic SC', sans-serif;
+  src: url('./Amatic-SC/AmaticSC-Bold.woff2') format('woff2'),
+       url('./Amatic-SC/AmaticSC-Bold.woff') format('woff'),
+       url('./Amatic-SC/AmaticSC-Bold.ttf') format('ttf');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
