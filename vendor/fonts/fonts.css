@@ -1,19 +1,20 @@
 @font-face {
-  font-family: 'Red Hat Mono', sans-serif;
-  src: url('./Red-Hat-Mono/RedHatMono-Light.woff2') format('woff2'),
-       url('./Red-Hat-Mono/RedHatMono-Light.woff') format('woff'),
-       url('./Red-Hat-Mono/RedHatMono-Light.ttf') format('ttf');
-  font-weight: 500;
+  font-family: 'Amatic SC';
+  src: url('../fonts/Amatic-SC/AmaticSC-Bold.woff2') format('woff2'),
+       url('../fonts/Amatic-SC/AmaticSC-Bold.woff') format('woff'),
+       url('../fonts/Amatic-SC/AmaticSC-Bold.ttf') format('tff');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
+
 @font-face {
-  font-family: 'Marck Script', cursive;
-  src:  url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.woff2') format('woff2'),
-        url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.woff') format('woff'),
-        url('./Marck-Script/marck-script-v16-latin_cyrillic-regular.ttf') format('ttf');
-  font-weight: 500;
+  font-family: 'Red Hat Mono';
+  src: url('../fonts/Red-Hat-Mono/RedHatMono-Light.woff2') format('woff2'),
+       url('../fonts/Red-Hat-Mono/RedHatMono-Light.woff') format('woff'),
+       url('../fonts/Red-Hat-Mono/RedHatMono-Light.ttf') format('tff');
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
